@@ -1,4 +1,4 @@
-# TryBranch X Ralph
+# TryBranch X Next Corner
 
 TryBranch is a link in bio tool built using [Astro]
 
@@ -9,4 +9,4 @@ TryBranch is a link in bio tool built using [Astro]
 
 
 
-View the [Demo Site]()
+View the [Demo Site](https://appnextcorner.netlify.app/)

@@ -10,41 +10,41 @@ export const socialLinks = [
   {
     title: 'Instagram',
     icon: 'mdi:instagram',
-    url: '',
+    url: 'https://www.instagram.com/appnextcorner/',
   },
   {
     title: 'Linkedin',
     icon: 'mdi:linkedin  ',
-    url: '',
+    url: 'https://www.linkedin.com/company/nextcorner/?viewAsMember=true',
   },
   {
     title: 'Discord',
     icon: 'mdi:discord  ',
-    url: '',
+    url: 'https://discord.gg/PsKnscsb25',
   },
   {
     title: 'Website',
     icon: 'mdi:globe',
-    url: '',
+    url: 'https://www.linkedin.com/company/nextcorner/?viewAsMember=true',
   }
 ]
 
 export const links = [
   {
-    text: 'Home',
+    text: '',
     url: '',
     featured: true,
   },
   {
-    text: 'About',
+    text: '',
     url: '',
   },
   {
-    text: 'Uses',
+    text: '',
     url: '',
   },
   {
-    text: 'See my latest blog post!',
+    text: '',
     url: '',
   }
 ]
